@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yasin86py
 - 👀 I’m interested in python - web programming
-- 🌱 I’m currently learning jango
+- 🌱 I’m currently learning Django
 - 📫 How to reach me : whit email >> yasin.1386123@gmail.com
 
 <!---
